@@ -4,6 +4,7 @@ MyEditor is a lightweight online document editing system built on wangEditor wit
 It supports document editing, document management, and document grouping features.
 
 The editor core logic is implemented using TypeScript, and the frontend interface is built with Vue3.
+
 Tech Stack
 
 Frontend: Vue3, TypeScript, Vite
