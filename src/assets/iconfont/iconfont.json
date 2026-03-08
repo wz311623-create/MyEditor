@@ -1,0 +1,149 @@
+{
+  "id": "5132480",
+  "name": "editor",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "42121279",
+      "name": "简单模式",
+      "font_class": "simple",
+      "unicode": "e784",
+      "unicode_decimal": 59268
+    },
+    {
+      "icon_id": "38388334",
+      "name": "默认模式",
+      "font_class": "default",
+      "unicode": "ea40",
+      "unicode_decimal": 59968
+    },
+    {
+      "icon_id": "1130",
+      "name": "锁定",
+      "font_class": "lock",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1334",
+      "name": "解锁",
+      "font_class": "unlock",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "995861",
+      "name": "添加",
+      "font_class": "add",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "8629258",
+      "name": "文档",
+      "font_class": "group",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "11882841",
+      "name": "bg-left",
+      "font_class": "left",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "11882936",
+      "name": "bg-right",
+      "font_class": "right",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "1613452",
+      "name": "验证码",
+      "font_class": "checkcode",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "11432803",
+      "name": "密码",
+      "font_class": "password",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    },
+    {
+      "icon_id": "27253678",
+      "name": "账号",
+      "font_class": "account",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "20075861",
+      "name": "日间",
+      "font_class": "day",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "5835480",
+      "name": "夜间模式",
+      "font_class": "night",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "6176583",
+      "name": "文件",
+      "font_class": "file",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "36158557",
+      "name": "新建",
+      "font_class": "new",
+      "unicode": "ebdf",
+      "unicode_decimal": 60383
+    },
+    {
+      "icon_id": "12184902",
+      "name": "编辑",
+      "font_class": "edit",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "21703365",
+      "name": "删除3",
+      "font_class": "delete",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "1305401",
+      "name": "历史",
+      "font_class": "history",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "4686546",
+      "name": "保存",
+      "font_class": "save",
+      "unicode": "ec09",
+      "unicode_decimal": 60425
+    },
+    {
+      "icon_id": "4880421",
+      "name": "下载",
+      "font_class": "download",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    }
+  ]
+}
