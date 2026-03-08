@@ -3,7 +3,7 @@ An online document editor built with Vue3 and wangEditor.
 MyEditor is a lightweight online document editing system built on wangEditor with custom extensions.
 It supports document editing, document management, and document grouping features.
 
-Demo:https://editor.rrrtwz.xyz、
+Demo:https://editor.rrrtwz.xyz
 
 userName:wangze
 password:wangze666
